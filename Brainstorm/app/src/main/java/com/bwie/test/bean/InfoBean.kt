@@ -5,3 +5,4 @@ package com.bwie.test.bean
  */
 
 class InfoBean(var name: String?)
+//asasdas
