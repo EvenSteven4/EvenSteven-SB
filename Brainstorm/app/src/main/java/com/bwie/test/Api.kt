@@ -5,6 +5,7 @@ package com.bwie.test
  */
 class Api {
     companion object {
-        private val BASE_URL = "http://192.168.x.x/decoration_axx_api/"
+        public val BASE_URL = "http://baobab.kaiyanapp.com/api/v2/"
+        public val VIDEOS = "http://baobab.kaiyanapp.com/api/v3/"
     }
 }
